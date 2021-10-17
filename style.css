@@ -1,0 +1,19 @@
+body{
+color: lime;
+background-color: darkslateblue;
+}
+.heading
+{
+    width: 90%;
+    font-size: xx-large;
+}
+.name_of_object,#result_object_name,#result_object_accuracy
+{
+    color: gold;
+}
+#camera
+{
+    border: 2px dashed aqua;
+    width: 300px;
+    height: 250px;
+}
